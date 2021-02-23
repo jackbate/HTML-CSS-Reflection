@@ -1,0 +1,49 @@
+.about{
+    background-color: $grey;
+    text-align: start;
+    width: 100%;
+}
+
+.aboutContent{
+    padding: 50px 15px;
+    background-color: $grey;
+    color: $secondary;
+    font-size: 16px;
+    text-align: start;
+}
+
+.aboutdesc{
+    padding: 0px 15px;
+    text-align: start;
+}
+
+.outCult{
+    background-color: $secondary;
+    color: $grey;
+}
+
+.ourCult::after{
+    content: ' \2192';
+}
+
+.ahead{
+    font-size: 36px;
+    font-weight: 500;
+}
+
+.marginbot{
+    margin-bottom: 25px;
+}
+
+.ap1{
+    font-weight: 500;
+}
+buttons{
+    .upblubtn{
+        background-color: $blue2;
+    }
+
+    .uppurpbtn{
+        background-color: $primary;
+    }
+}

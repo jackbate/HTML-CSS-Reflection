@@ -1,0 +1,25 @@
+.img{
+    &-change1{
+        
+        background-image: url(../../Images/logo1.png);
+    }
+    &-change2{
+
+    }
+    &-change3{
+
+    }
+    &-change4{
+
+    }
+}
+
+.logo{
+    &-background{
+
+    }
+    &-flex{
+       display: none;
+       flex-direction: row;
+    }
+}
